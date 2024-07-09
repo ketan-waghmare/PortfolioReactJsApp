@@ -63,10 +63,10 @@ const NavItems = styled.div`
   align-items: center;
   gap: 32px;
   life-style: none;
-
-}
-  @media screen and (max-width: 768px) {
-    display: none;ß
+  @media screen and (max-width: 768px) 
+  {
+    display: none;
+  }
 `;
 
 const NavLink = styled.a`
